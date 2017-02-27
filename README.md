@@ -1,6 +1,6 @@
 WIP
 
-A small utility to correct the alignment of SVG text elements.
+A small utility to correct the alignment of radially positioned SVG text elements.
 
 
 ## Purpose
