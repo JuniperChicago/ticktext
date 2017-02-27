@@ -1,0 +1,19 @@
+{
+  "name": "ticktext",
+  "version": "0.1.0",
+  "description": "utility for radial svg text placement for dials and gauges",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuniperChicago/ticktext.git"
+  },
+  "author": "Robin Schulemann <rschulemann@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuniperChicago/ticktext/issues"
+  },
+  "homepage": "https://github.com/JuniperChicago/ticktext#readme"
+}
