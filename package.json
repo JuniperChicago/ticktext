@@ -1,6 +1,6 @@
 {
   "name": "ticktext",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "utility for radial svg text placement for dials and gauges",
   "main": "lib/index.js",
   "scripts": {
